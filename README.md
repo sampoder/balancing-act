@@ -1,6 +1,6 @@
 # 😵‍💫 Balancing act
 
-TLDR: interactive art piece about daily stressors.
+TLDR: interactive art piece about everyday things that stress us (students) out.  I built this for [DESINV 23](https://classes.berkeley.edu/content/2025-spring-desinv-23-1-lec-1), a class on creative programming & electronics at UC Berkeley.
 
 ---
 
