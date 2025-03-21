@@ -8,6 +8,13 @@ Submit an emoji representing what you are stressed about [here](https://airtable
 
 As students, we've got a lot going on in our lives and that can be difficult to manage / balance. Sometimes I feel like I'm going to explode! Each "emoji bubble" represents something that causes a viewer stress. As time progresses, more bubbles spawn on the canvas. They begin to fall and the viewers can attempt to hit the bubbles and push them away (represents completing a task). However, over time, the bubbles become too much too handle for the viewers.
 
+_[insert video]_ 
+
+Everyone lives a different life and different things stress different people out. I made a form for others to submit emojis representing what they're stressed about - that way the art changes based on its viewers! I liked emojis because they're universally understood and only somewhat personal. People may not feel comfortable sharing their whole life story but an emoji is something that many people can relate to.
+
+From time to t
+
+
 ## The process
 
 This piece started as an attempt to depict the busy world we live in but through silhouettes (inspired by [Apple's iPod advertisements](https://en.wikipedia.org/wiki/IPod_advertising#Silhouette_style)). 
