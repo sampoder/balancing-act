@@ -32,7 +32,19 @@ However, I was struggling to think of things that were universally stressful (ap
 
 ## Reflection
 
-TBD
+I'm really proud of this piece! Specifically, I proud of the story telling that I included in my presentation. That was something I had really felt was lacking with my previous piece. That's also why I asked Jeff at Heron Arts - I was really inspired by the story he told through his previous piece.
+
+I appreciated that my story was relevant to my audience; I guess being similar to that audience helped with that? It was also interesting that I didn't really know what that story was going into building the piece but over time, the story slowly developed. It was as developing as I was getting increasingly stressed - ironic.
+
+There are still things I'd like to improve as you can imagine:
+
+* Optimising the piece for a larger audience. When I presented my piece, I noticed that it really only worked for three to five people. If I wanted to put it in a gallery / present it publicly, it'd have to be flexible based on the group size. I think that something that'd help with this is getting a wide angle webcam and positioning the webcam further away from the viewers.
+
+* Building more opportunities for viewers to interact with the piece, what if you could pop the bubbles for example? It'd be nice if there was some sort of collaborative goal for all of the viewers. 
+
+* Randomising the shapes / colours more to make the piece feel more natural and less stale. Over time, the piece begins to look the same and I think it'd be nice if there was a bit more variety in its visuals.
+
+All that said, I'm really happy with this piece and looking forward to bulding more art pieces! Thank you to everyone who talked to me about the project and helped guide me through building this piece :D
 
 ## Sources
 
